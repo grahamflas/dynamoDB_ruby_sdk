@@ -26,7 +26,7 @@ params = {
     {
       attribute_name: "year",
       key_type: "HASH" #Partition key
-    },
+    },mo
     {
       attribute_name: "title",
       key_type: "RANGE" #Sort key
